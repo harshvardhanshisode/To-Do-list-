@@ -1,0 +1,22 @@
+
+footer {
+    background-color:#1E293B;
+    color: white;
+    margin-top: 60px;
+    border-top: 3px solid #343a40;
+}
+
+
+.footer h5{
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.footer p{
+    margin-bottom: 5px;
+    color:#F8FAFC;
+}
+
+.footer small{
+    color:#F8FAFC;
+}
